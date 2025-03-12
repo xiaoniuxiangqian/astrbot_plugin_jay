@@ -39,7 +39,7 @@ class AIPlugin(Star):
 
     async def call_api(self, message: str) -> str:
         '''调用指定的 API 接口'''
-        api_url = "https://your-api-endpoint.com/chat"  # 替换为你的 API 地址
+        api_url = "http://5.104.84.62/api/v1/chats_openai/"  # 替换为你的 API 地址
         payload = {"message": message}  # 请求参数
         headers = {"Content-Type": "application/json"}  # 请求头
 
