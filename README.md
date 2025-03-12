@@ -43,9 +43,7 @@ aiohttp：用于异步 HTTP 请求。
 当前版本：1.0.0
 
 作者
-YourName
-
-许可证
-本项目采用 MIT 许可证。
+jay
+ 
 
 希望这个插件能为你的聊天体验增添乐趣！如果有任何问题或建议，欢迎提交 Issue 或 Pull Request
